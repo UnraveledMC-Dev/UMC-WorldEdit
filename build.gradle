@@ -53,7 +53,7 @@ subprojects {
     apply plugin: 'com.jfrog.artifactory-upload'
 
     group = 'com.sk89q.worldedit'
-    version = '6.0.2-TF'
+    version = '6.1.0-TF'
     ext.internalVersion = version + ";" + gitCommitHash
 
     sourceCompatibility = 1.6
