@@ -1,4 +1,4 @@
-name: WorldEdit
+name: UMC-WorldEdit
 main: com.sk89q.worldedit.bukkit.WorldEditPlugin
 version: "${internalVersion}"
 softdepend: [Spout] #hack to fix trove errors
